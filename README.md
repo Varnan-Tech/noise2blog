@@ -1,5 +1,8 @@
 # noise2blog
 
+<img width="1280" height="640" alt="noise2blog" src="https://github.com/user-attachments/assets/2359cff9-dfd4-4276-bb3e-4b6091ad6983" />
+
+
 Paste your rough notes, bullet points, voice transcript, or tweet dump and get a publication-ready blog post.
 
 ## What It Does
